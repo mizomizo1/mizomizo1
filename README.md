@@ -1,7 +1,3 @@
-Here’s a more detailed and comprehensive README for your GitHub, incorporating all the additional information while maintaining an engaging and thorough narrative:
-
----
-
 # Introduction  
 Hello, my name is Hideaki, and I'm a medical student from Japan. I'm deeply fascinated by the intersection of medicine and technology, with a specific focus on AI applications in healthcare. I believe that AI has the potential to revolutionize medical diagnosis and treatment, and I'm excited to be part of this transformative field.
 
@@ -37,7 +33,3 @@ I’m motivated by the desire to blend the precision of medical science with the
 
 # Contact  
 Feel free to reach out if you'd like to collaborate on AI projects, discuss web development, or exchange ideas about medical technology and data science!
-
----
-
-This version provides a fuller profile, giving insight into your interests, skills, and projects in a way that’s both informative and engaging. Let me know if you'd like any further adjustments!
