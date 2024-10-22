@@ -25,9 +25,6 @@ Here are the key tools and languages I work with:
 - **HTML**: For creating clean, functional websites  
 - **Kaggle**: Where I explore datasets and perform EDA to gain deeper insights through Python analysis
 
-# GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mizomizo1&show_icons=true)
-
 # What Drives Me  
 I’m motivated by the desire to blend the precision of medical science with the innovation of AI. Whether it's through improving healthcare systems, optimizing operations, or developing user-friendly apps, I am always looking for ways to make impactful contributions. Kaggle competitions and projects in AI have helped me enhance my skills while constantly pushing the boundaries of what’s possible.
 
