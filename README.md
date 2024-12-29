@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm mizomizo1!
 
 I'm a **medical student** based in Osaka with a strong interest in **AI**, **computational biology**, and **optimization problems**. I love diving into **genome analysis**, **mathematical optimization** with tools like `PuLP`, and building models with **PyTorch**. I also occasionally enjoy competing on **Kaggle** to challenge my data science skills.
 
