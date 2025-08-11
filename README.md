@@ -44,8 +44,6 @@
 ## 🚀 About Me
 - AI × Biology/Medicine (genomics & optimization)
 - Pattern finding in complex datasets
-- Kaggle challenger
-- Coffee-powered in Osaka ☕️
 
 ## 🏆 Trophies & Streak
 <p align="center">
@@ -64,11 +62,6 @@
 ## 🌊 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizomizo1&theme=tokyo-night&hide_border=true" alt="activity-graph"/>
-</p>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/mizomizo1/mizomizo1/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ## 🐍 Python in Action
