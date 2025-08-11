@@ -40,8 +40,6 @@
 
 - 🧠 Passionate about **AI in biology and medicine**, focusing on genomics & optimization  
 - 🔍 Skilled in **finding patterns** within complex datasets  
-- 🏆 Kaggle competitor — always exploring real-world data science problems  
-- ☕ Loves brainstorming projects over coffee in Osaka  
 
 ## 📊 GitHub Stats
 
