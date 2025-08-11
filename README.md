@@ -58,16 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mizomizo1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizomizo1&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top-langs"/>
 </p>
-
-## 🌊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizomizo1&theme=tokyo-night&hide_border=true" alt="activity-graph"/>
-</p>
-
-## 🐍 Python in Action
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="260">
-</p>
-<p align="center">
-  <em>Python is not just a language — it's a <strong>lifestyle</strong> 🐍</em>
-</p>
