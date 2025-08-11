@@ -27,24 +27,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📌 Featured Projects
-
-- **🧬 Genome Analysis Pipeline**  
-  Built a robust pipeline to analyze genomic datasets, identifying SNPs and structural variations.
-
-- **🤖 Medical AI: Disease Prediction**  
-  Developed predictive models using **PyTorch** to classify diseases from medical datasets.
-
-- **📈 Optimization for Healthcare Resource Allocation**  
-  Designed optimization models using **PuLP** to improve resource management in healthcare.
-
-## 🚀 About Me
-
-- 🧠 Passionate about **AI in biology and medicine**, with focus on genomics & optimization  
-- 🔍 Skilled in **finding patterns** within complex datasets  
-- 🏆 Kaggle competitor — always exploring real-world data science problems  
-- ☕ Loves brainstorming projects over coffee in Osaka  
-
 ## 📊 GitHub Stats
 
 <p align="center">
