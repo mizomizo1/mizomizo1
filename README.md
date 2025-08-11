@@ -1,5 +1,8 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4B8BBE;">mizomizo1</span></h1>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+mizomizo1;Medical+Student+from+Osaka;AI+%26+Computational+Biology+Enthusiast;Optimization+and+Genome+Analysis+Lover" alt="Typing SVG" />
+</h1>
+
 <p align="center">
 🎓 Medical Student | 🧬 AI & Computational Biology Enthusiast | 📊 Optimization Explorer  
 </p>
@@ -27,11 +30,34 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📌 Featured Projects
+
+- **🧬 Genome Analysis Pipeline** – Built a robust pipeline to analyze genomic datasets, identifying SNPs and structural variations.
+- **🤖 Medical AI: Disease Prediction** – Developed predictive models using **PyTorch** to classify diseases from medical datasets.
+- **📈 Optimization for Healthcare Resource Allocation** – Designed optimization models using **PuLP** to improve resource management in healthcare.
+
+## 🚀 About Me
+
+- 🧠 Passionate about **AI in biology and medicine**, focusing on genomics & optimization  
+- 🔍 Skilled in **finding patterns** within complex datasets  
+- 🏆 Kaggle competitor — always exploring real-world data science problems  
+- ☕ Loves brainstorming projects over coffee in Osaka  
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mizomizo1&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizomizo1&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mizomizo1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizomizo1&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mizomizo1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <img src="https://github.com/mizomizo1/mizomizo1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ## 🐍 Python in Action
