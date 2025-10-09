@@ -32,4 +32,9 @@
 ## 🚀 About Me
 - AI × Biology/Medicine (genomics & optimization)  
 - Pattern finding in complex datasets  
-- Kaggle challenger  
+- Kaggle challenger
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizomizo1&theme=tokyo-night" alt="activity-graph" />
+</p>
+
