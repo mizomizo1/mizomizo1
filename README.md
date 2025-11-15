@@ -1,40 +1,43 @@
-<!-- Waving Gradient Banner (header) -->
+# 🌊 mizomizo1
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4B8BBE,100:306998&text=mizomizo1&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20Computational%20Biology%20%7C%20Optimization&descAlign=50&descAlignY=60" alt="header" />
+  <strong>AI · Computational Biology · Optimization</strong><br/>
+  Medical Student in Osaka
 </p>
 
-<!-- Animated Typing Subtitle -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=820&color=4B8BBE&lines=Medical+Student+in+Osaka;AI+%26+Computational+Biology+Enthusiast;Optimization+%2F+Genome+Analysis+%2F+PyTorch" alt="typing" />
-</h3>
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,pytorch" alt="skills" />
+  <img src="https://img.shields.io/github/followers/mizomizo1?label=Followers&style=flat&color=4B8BBE" />
+  <img src="https://img.shields.io/github/stars/mizomizo1?style=flat&color=306998" />
 </p>
 
-### Libraries & Tools
+## ⚙️ Tech Stack
+
 <p align="center">
-  <!-- Skill Iconsにないものはバッジで補完 -->
-  <img src="https://img.shields.io/badge/BioPython-009688?style=for-the-badge&logo=python&logoColor=white" alt="BioPython" />
-  <img src="https://img.shields.io/badge/PuLP-FFC107?style=for-the-badge&logo=python&logoColor=black" alt="PuLP" />
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,pytorch,mysql" />
 </p>
 
-## 📌 Featured Projects
-- **🧬 Genome Analysis Pipeline** 
-- **🤖 Medical AI: Disease Prediction** 
-- **📈 Optimization for Healthcare Resource Allocation**
+<p align="center">
+  <img src="https://img.shields.io/badge/BioPython-009688?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PuLP-FFC107?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+</p>
 
-## 🚀 About Me
-- AI × Biology/Medicine (genomics & optimization)  
-- Pattern finding in complex datasets  
-- Kaggle challenger
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizomizo1&theme=tokyo-night" alt="activity-graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizomizo1&theme=default" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mizomizo1&show_icons=true&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizomizo1&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mizomizo1&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizomizo1&theme=github-light" />
 </p>
 
