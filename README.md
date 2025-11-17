@@ -5,6 +5,7 @@
 <p align="center">
   <strong>AI · Computational Biology · Optimization</strong><br/>
   Medical Student in Osaka
+  <br/>
   Arctier CTO
 </p>
 
