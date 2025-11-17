@@ -1,8 +1,11 @@
-# 🌊 mizomizo1
+<p align="center">
+  <img width="150" height="150" alt="Arctier_logo" src="https://github.com/user-attachments/assets/dc0021f3-bf26-4ace-8fc8-03f22a764e9d" /> 
+</p>
 
 <p align="center">
   <strong>AI · Computational Biology · Optimization</strong><br/>
   Medical Student in Osaka
+  Arctier CTO
 </p>
 
 <p align="center">
