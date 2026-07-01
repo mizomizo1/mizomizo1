@@ -80,3 +80,6 @@
     alt="Creative and Documentation skills"
   />
 </p>
+<div align="right">
+<img width="160" alt="Image" src="https://github.com/user-attachments/assets/bdb66ede-9c76-436d-a280-67be33b4fb9b" />
+</div>
