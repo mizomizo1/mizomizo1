@@ -7,10 +7,38 @@
 
 ## Highlights
 
-* 🧬 Developer of **EvoSeq**
-  
-* 🧠 Building AI systems for medicine, imaging, and genomics
-* ⚙️ Interested in deep learning, optimization, and practical medical applications
+- 🧬 Developer of **EvoSeq**
+- 🧠 Building AI systems for medicine, imaging, and genomics
+- ⚙️ Interested in deep learning, optimization, and practical medical applications
+
+## Featured Repository
+
+<div align="center">
+
+### 🧬 EvoSeq
+
+**Deep Learning × Genomics × Medical AI**
+
+<p>
+  <a href="https://github.com/mizomizo1/EvoSeq">
+    <img
+      src="https://img.shields.io/badge/GitHub-EvoSeq-181717?style=for-the-badge&logo=github"
+      alt="EvoSeq GitHub Repository"
+    />
+  </a>
+</p>
+
+<p>
+  Deep learning and genomics project for medical AI applications.
+</p>
+
+<p>
+  <a href="https://github.com/mizomizo1/EvoSeq">
+    View Repository →
+  </a>
+</p>
+
+</div>
 
 ## Tech
 
