@@ -1,16 +1,8 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=mizomizo1&style=flat-square&color=blueviolet" />
-</div>
-
-<div align="center">
-
-# Hideaki Mizoue
-
+# Hideaki Mizoue 
+![](https://komarev.com/ghpvc/?username=mizomizo1&style=plastic)
 ### Medical AI | Deep Learning | Genomics
 
 Medical student at **Kansai Medical University** working on AI for medicine.
-
-</div>
 
 ## Focus
 
@@ -21,7 +13,7 @@ Medical student at **Kansai Medical University** working on AI for medicine.
 
 ## Tech
 
-<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,pytorch,tensorflow,sklearn,docker,linux,github,apple" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,pytorch,tensorflow,sklearn,docker,linux,github,apple,html,css,javascript,figma,flask,kali,latex,nextjs,npm,opencv,react,supabase,swift,tailwind,ts,vercel,vite," />
 
 ## GitHub
 
