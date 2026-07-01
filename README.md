@@ -1,25 +1,51 @@
-# Hideaki Mizoue 
-![](https://komarev.com/ghpvc/?username=mizomizo1&style=plastic)
-### Medical AI | Deep Learning | Genomics
+<h1 align="center">Hideaki Mizoue</h1>
+<h3 align="center">Medical AI | Deep Learning | Genomics</h3>
 
-Medical student at **Kansai Medical University** working on AI for medicine.
-
-## Focus
-
-`Medical AI` `Deep Learning` `Medical Imaging` `Genomics` `Optimization`
+<p align="center">
+  Medical student at <strong>Kansai Medical University</strong> working on AI for medicine.
+</p>
 
 ## Highlights
-- 🧬 Developer of **EvoSeq**
+
+* 🧬 Developer of **EvoSeq**
+  
+* 🧠 Building AI systems for medicine, imaging, and genomics
+* ⚙️ Interested in deep learning, optimization, and practical medical applications
 
 ## Tech
 
-<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,pytorch,tensorflow,sklearn,docker,linux,github,apple,html,css,javascript,figma,flask,kali,latex,nextjs,npm,opencv,react,supabase,swift,tailwind,ts,vercel,vite," />
+### AI / Data Science
 
-## GitHub
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,pytorch,tensorflow,sklearn,opencv"
+    alt="AI and Data Science skills"
+  />
+</p>
 
-<div align="center">
+### Web Development
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=mizomizo1&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizomizo1&layout=compact&theme=vue-dark&hide_border=true" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,javascript,typescript,react,nextjs,tailwind,vite"
+    alt="Web Development skills"
+  />
+</p>
 
-</div>
+### Backend / DevOps
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?theme=dark&perline=8&i=flask,supabase,docker,linux,vercel,github,npm"
+    alt="Backend and DevOps skills"
+  />
+</p>
+
+### Creative / Documentation
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?theme=dark&perline=8&i=figma,latex"
+    alt="Creative and Documentation skills"
+  />
+</p>
