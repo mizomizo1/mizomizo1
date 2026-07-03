@@ -45,6 +45,11 @@
 
 ## Tech
 
+### Most used Languages
+<p align="center">
+  <img src="./output/full_languages.svg" alt="Most Used Languages">
+</p>
+
 ### AI / Data Science
 
 <p align="center">
