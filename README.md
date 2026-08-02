@@ -2,7 +2,7 @@
 <div align="center">
 <img height=120 alt="Image" src="https://github.com/user-attachments/assets/8b97b31b-b2e3-469d-9f49-ddfff0f5e7f0" />
 </div>
-<h3 align="center">Medical AI | Deep Learning | Genomics</h3>
+<h3 align="center">Medical AI | Deep Learning | Bioinformatics</h3>
 
 <p align="center">
   Medical student at <strong>Kansai Medical University</strong> working on AI for medicine.
