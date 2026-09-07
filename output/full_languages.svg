@@ -54,21 +54,21 @@ tspan {
 </defs>
 <rect width="370" height="10" x="20" y="60" rx="5" ry="5" fill='#ccc' />
 <g clip-path="url(#roundedClip)">
-    <rect x="20" y="60" width="332" height="10" fill="#DA5B0B"> <title>Jupyter Notebook 89.75%</title> </rect>
-    <rect x="352" y="60" width="24" height="10" fill="#3572A5"> <title>Python 6.62%</title> </rect>
-    <rect x="376" y="60" width="10" height="10" fill="#0298c3"> <title>Perl 2.71%</title> </rect>
-    <rect x="386" y="60" width="2" height="10" fill="#e34c26"> <title>HTML 0.60%</title> </rect>
+    <rect x="20" y="60" width="326" height="10" fill="#DA5B0B"> <title>Jupyter Notebook 88.20%</title> </rect>
+    <rect x="346" y="60" width="30" height="10" fill="#3572A5"> <title>Python 8.23%</title> </rect>
+    <rect x="376" y="60" width="10" height="10" fill="#0298c3"> <title>Perl 2.66%</title> </rect>
+    <rect x="386" y="60" width="2" height="10" fill="#e34c26"> <title>HTML 0.59%</title> </rect>
     <rect x="388" y="60" width="1" height="10" fill="#f1e05a"> <title>JavaScript 0.32%</title> </rect>
 </g>
 <g id="lang_legend">
 <circle cx="30" cy="100" r="6" fill="#DA5B0B" />
-<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Jupyter Notebook</tspan> 89.75%</text>
+<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Jupyter Notebook</tspan> 88.20%</text>
 <circle cx="225" cy="100" r="6" fill="#3572A5" />
-<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 6.62%</text>
+<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 8.23%</text>
 <circle cx="30" cy="124" r="6" fill="#0298c3" />
-<text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Perl</tspan> 2.71%</text>
+<text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Perl</tspan> 2.66%</text>
 <circle cx="225" cy="124" r="6" fill="#e34c26" />
-<text x="241" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HTML</tspan> 0.60%</text>
+<text x="241" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HTML</tspan> 0.59%</text>
 <circle cx="30" cy="148" r="6" fill="#f1e05a" />
 <text x="46" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>JavaScript</tspan> 0.32%</text>
 </g>
