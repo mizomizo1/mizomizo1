@@ -54,33 +54,33 @@ tspan {
 </defs>
 <rect width="370" height="10" x="20" y="60" rx="5" ry="5" fill='#ccc' />
 <g clip-path="url(#roundedClip)">
-    <rect x="20" y="60" width="268" height="10" fill="#DA5B0B"> <title>Jupyter Notebook 72.53%</title> </rect>
-    <rect x="288" y="60" width="49" height="10" fill="#3572A5"> <title>Python 13.27%</title> </rect>
-    <rect x="337" y="60" width="41" height="10" fill="#3178c6"> <title>TypeScript 11.17%</title> </rect>
-    <rect x="378" y="60" width="7" height="10" fill="#0298c3"> <title>Perl 1.94%</title> </rect>
-    <rect x="385" y="60" width="2" height="10" fill="#e34c26"> <title>HTML 0.44%</title> </rect>
-    <rect x="387" y="60" width="1" height="10" fill="#f1e05a"> <title>JavaScript 0.35%</title> </rect>
-    <rect x="388" y="60" width="0" height="10" fill="#89e051"> <title>Shell 0.13%</title> </rect>
-    <rect x="388" y="60" width="0" height="10" fill="#663399"> <title>CSS 0.12%</title> </rect>
-    <rect x="388" y="60" width="0" height="10" fill="#384d54"> <title>Dockerfile 0.04%</title> </rect>
+    <rect x="20" y="60" width="264" height="10" fill="#DA5B0B"> <title>Jupyter Notebook 71.24%</title> </rect>
+    <rect x="284" y="60" width="48" height="10" fill="#3572A5"> <title>Python 13.04%</title> </rect>
+    <rect x="332" y="60" width="41" height="10" fill="#3178c6"> <title>TypeScript 10.97%</title> </rect>
+    <rect x="373" y="60" width="7" height="10" fill="#0298c3"> <title>Perl 1.91%</title> </rect>
+    <rect x="380" y="60" width="6" height="10" fill="#e34c26"> <title>HTML 1.67%</title> </rect>
+    <rect x="386" y="60" width="2" height="10" fill="#663399"> <title>CSS 0.66%</title> </rect>
+    <rect x="388" y="60" width="1" height="10" fill="#f1e05a"> <title>JavaScript 0.34%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#89e051"> <title>Shell 0.12%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#384d54"> <title>Dockerfile 0.04%</title> </rect>
 </g>
 <g id="lang_legend">
 <circle cx="30" cy="100" r="6" fill="#DA5B0B" />
-<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Jupyter Notebook</tspan> 72.53%</text>
+<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Jupyter Notebook</tspan> 71.24%</text>
 <circle cx="225" cy="100" r="6" fill="#3572A5" />
-<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 13.27%</text>
+<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 13.04%</text>
 <circle cx="30" cy="124" r="6" fill="#3178c6" />
-<text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TypeScript</tspan> 11.17%</text>
+<text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TypeScript</tspan> 10.97%</text>
 <circle cx="225" cy="124" r="6" fill="#0298c3" />
-<text x="241" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Perl</tspan> 1.94%</text>
+<text x="241" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Perl</tspan> 1.91%</text>
 <circle cx="30" cy="148" r="6" fill="#e34c26" />
-<text x="46" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HTML</tspan> 0.44%</text>
-<circle cx="225" cy="148" r="6" fill="#f1e05a" />
-<text x="241" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>JavaScript</tspan> 0.35%</text>
-<circle cx="30" cy="172" r="6" fill="#89e051" />
-<text x="46" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Shell</tspan> 0.13%</text>
-<circle cx="225" cy="172" r="6" fill="#663399" />
-<text x="241" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>CSS</tspan> 0.12%</text>
+<text x="46" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HTML</tspan> 1.67%</text>
+<circle cx="225" cy="148" r="6" fill="#663399" />
+<text x="241" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>CSS</tspan> 0.66%</text>
+<circle cx="30" cy="172" r="6" fill="#f1e05a" />
+<text x="46" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>JavaScript</tspan> 0.34%</text>
+<circle cx="225" cy="172" r="6" fill="#89e051" />
+<text x="241" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Shell</tspan> 0.12%</text>
 <circle cx="30" cy="196" r="6" fill="#384d54" />
 <text x="46" y="200" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Dockerfile</tspan> 0.04%</text>
 </g>
